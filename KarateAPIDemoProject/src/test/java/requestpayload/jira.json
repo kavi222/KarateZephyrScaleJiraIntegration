@@ -1,0 +1,12 @@
+{
+	"projectKey": "AJI",
+	"testCaseKey": "#(TestCaseID)",
+	"testCycleKey": "#(testCycleID)",
+	"statusName": "#(tstatus)",
+	"testScriptResults": [
+		{
+			"statusName": "#(tstatus)",
+			"actualResult": "#(tcomment)"
+		}
+	]
+}

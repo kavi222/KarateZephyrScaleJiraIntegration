@@ -1,0 +1,11 @@
+{
+    "firstname" : "Kavi",
+    "lastname" : "Arasu",
+    "totalprice" : 111,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2023-09-15",
+        "checkout" : "2023-09-15"
+    },
+    "additionalneeds" : "Breakfast"
+}
